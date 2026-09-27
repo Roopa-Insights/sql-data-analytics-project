@@ -30,7 +30,7 @@ Scripts **07–13** focus on deeper analysis, trends, performance, segmentation,
 
 ## 🗺️ Project Roadmap
 
-![Data Analytics Project Roadmap](Project%20Roadmap.png)
+![Data Analytics Project Roadmap](docs)
 
 ---
 
