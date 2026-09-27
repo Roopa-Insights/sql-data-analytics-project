@@ -30,7 +30,7 @@ Scripts **07–13** focus on deeper analysis, trends, performance, segmentation,
 
 ## 🗺️ Project Roadmap
 
-![Data Analytics Project Roadmap](docs)
+![Data Analytics Project Roadmap](https://github.com/Roopa-Insights/sql-data-analytics-project/blob/main/docs/Project%20Roadmap.png)
 
 ---
 
